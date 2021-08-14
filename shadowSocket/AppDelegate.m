@@ -7,7 +7,6 @@
 
 #import "AppDelegate.h"
 #include "AioServer.h"
-#import "BackgroundPlayer.h"
 extern AioServer* aioServer;
 
 @interface AppDelegate ()
